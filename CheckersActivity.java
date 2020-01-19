@@ -11,7 +11,7 @@ public class CheckersActivity {
 		boolean canCapture = false;
 		System.out.println(game.getBoard().toString());
 		
-		//ADD COMMENTS EVERYWHEEEEEERE
+		//further documentation needed
 		while (game.getComplete() == false) {
 			//each move
 			boolean moveValid = false;
