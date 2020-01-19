@@ -1,2 +1,2 @@
-# Java
-All of my Java Projects
+# Checkers-Java
+Classic Checkers board game implemented through Java
